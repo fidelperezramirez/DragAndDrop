@@ -1,0 +1,26 @@
+#tablita{
+    border: 1px solid;
+}
+#tablita tr{
+    border: 1px solid;
+    width: 150px;
+    height:  100px;
+}
+
+#tablita tr td{
+    border: 1px solid;
+    width: 150px;
+    height:  100px;
+}
+
+img{
+    width: 150px;
+    height:  100px;
+}
+
+#imgPrinc{
+    float: right;
+    display: inline;
+    width: 300px;
+    height:  200px;
+}
